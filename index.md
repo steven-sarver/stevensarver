@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Steven
 You can use the [editor on GitHub](https://github.com/steven-sarver/stevensarver/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+[Twitter]http://www.twitter.com/projekt21
+[Twitch]https://www.twitch.tv/projekt21
+[Youtube]https://www.youtube.com/stevensarver
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
